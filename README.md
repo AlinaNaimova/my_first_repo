@@ -11,3 +11,7 @@ Add english text local.
 Это кот.
 
 ![Это кот](cat.jpeg)
+
+Это лого.
+
+![Это лого](MarineGEO_logo.png)
