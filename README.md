@@ -8,6 +8,6 @@ Add english text local.
 
 ## Картинка
 
-Это кот.
+Это кот. This is a cat.
 
 ![Это кот](cat.jpeg)
