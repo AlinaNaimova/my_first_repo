@@ -15,3 +15,5 @@ Add english text local.
 Это лого.
 
 ![Это лого](MarineGEO_logo.png)
+
+Лого с 4х картинок и разных цветов.
