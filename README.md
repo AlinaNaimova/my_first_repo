@@ -7,6 +7,7 @@ Add english text local.
 
 
 ## Картинка
+
 Это кот.
 
 ![Это кот](cat.jpeg)
